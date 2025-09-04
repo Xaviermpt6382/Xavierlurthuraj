@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xavierlurthuraj
-- 👀 I’m interested in AWS cloud security
+- 👀 I’m interested in Azure (Intune,entra)
 - 🌱 I’m currently learning New tools
 - 💞️ I’m looking to collaborate on cyber-related topic
 - 📫 How to reach me linkedin
